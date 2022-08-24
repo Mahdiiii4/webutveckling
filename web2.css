@@ -1,0 +1,19 @@
+body{
+background-color: grey;
+    color: orange;
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+p{
+    border: 1px solid white;
+ 
+   
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
