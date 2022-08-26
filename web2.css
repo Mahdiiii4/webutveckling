@@ -1,19 +1,45 @@
 body{
-background-color: grey;
+background-color: black;
     color: orange;
 
 }
 
 h1{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    size: 22px;
+}
+
+h2{
+    text-align: center;
+    color: aqua;
 
 }
 
 p{
-    border: 1px solid white;
- 
-   
-    font-size: large;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
+ 
+
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+
+}
+
+.program{
+    text-align: right;
+    
+}
+
+.mit{
+    border: 1px solid white;
+
+}
+
+.tek{
+background-color: slateblue;
+text-align: center;
+
+}
+a{
+    text-decoration: none;
 }
