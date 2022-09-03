@@ -1,46 +1,66 @@
 body{
-background-color: black;
-    color: orange;
-
-}
-
-h1{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
-}
-
-h2{
+    background-color: black;
+        color: orange;
+    
+    }
+    
+    h1{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 22px;
+    }
+    
+    h2{
+        text-align: center;
+        color: aqua;
+        
+    }
+    
+    p{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+    
+    }
+    
+    .program{
+        text-align: right;
+        
+    }
+    
+    .mit{
+        border: 1px solid white;
+    
+    }
+    
+    .tek{
+    background-color: slateblue;
     text-align: center;
     color: aqua;
+    }
+    a{
+        text-decoration: none;
+    }
     
-}
-
-p{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
-
-}
-
-.program{
-    text-align: right;
+    table, th, td{
+        border: 1px solid white;
+        border-collapse: collapse;
+        
+    }
+    .right{
+        text-align: right;
+    }
+    .left{
+        text-align: left;
+    }
+    .mid{
+        text-align: center;
+    }
+    .redd {
+        background-color: darkred;
+    }
+    .green{
+        background-color: green;
+    }
+    .grey{
+        background-color: dimgray;
+    }
     
-}
-
-.mit{
-    border: 1px solid white;
-
-}
-
-.tek{
-background-color: slateblue;
-text-align: center;
-color: aqua;
-}
-a{
-    text-decoration: none;
-}
-
-table, th, td{
-    border: 1px solid red;
-    border-collapse: collapse;
-}
