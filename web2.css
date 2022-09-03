@@ -63,4 +63,28 @@ body{
     .grey{
         background-color: dimgray;
     }
-    
+    .rod{
+        background-color: red;
+        border-left: 0px;
+        border-right: 0px;
+    }
+    .blo{
+        background-color: cornflowerblue;
+        border-bottom: 0px;
+        border-top: 0px;
+    }
+    .yello{
+        background-color: yellow;
+        
+    }
+    .blac{
+        background-color: black;
+        border-top: 0px;
+        border-bottom: 0px;
+        
+    }
+    .gree{
+        background-color: rgb(47, 255, 57);
+        border-right: 0px;
+        border-left: 0px;
+    }
