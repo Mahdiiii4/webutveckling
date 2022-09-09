@@ -43,48 +43,69 @@ body{
     table, th, td{
         border: 1px solid white;
         border-collapse: collapse;
-        
     }
+
+    .tabss{
+        width: 750px;
+        height: 450px;
+    }
+
+    .tabzz{
+        width: 1000px;
+    }
+
     .right{
         text-align: right;
     }
+
     .left{
         text-align: left;
     }
+
     .mid{
         text-align: center;
     }
+
     .redd {
         background-color: darkred;
     }
+
     .green{
         background-color: green;
     }
+
     .grey{
         background-color: dimgray;
     }
+
     .rod{
         background-color: red;
         border-left: 0px;
         border-right: 0px;
     }
+
     .blo{
         background-color: cornflowerblue;
         border-bottom: 0px;
         border-top: 0px;
     }
+
     .yello{
         background-color: yellow;
         
     }
+
     .blac{
         background-color: black;
         border-top: 0px;
         border-bottom: 0px;
         
     }
+
     .gree{
         background-color: rgb(47, 255, 57);
         border-right: 0px;
         border-left: 0px;
     }
+
+    
